@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/sendPhoto.ts": {
+      "includeFiles": "_files/**"
+    }
+  }
+}
